@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rafae\\source\\repos\\Trabalho do Allan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C430BAB-7F37-4BCE-85B2-0B797A65ED70}|Trabalho do Allan\\Trabalho do Allan.csproj|c:\\users\\rafae\\source\\repos\\trabalho do allan\\trabalho do allan\\controlcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C430BAB-7F37-4BCE-85B2-0B797A65ED70}|Trabalho do Allan\\Trabalho do Allan.csproj|solutionrelative:trabalho do allan\\controlcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C430BAB-7F37-4BCE-85B2-0B797A65ED70}|Trabalho do Allan\\Trabalho do Allan.csproj|C:\\Users\\rafae\\source\\repos\\Trabalho do Allan\\trabalho do allan\\daocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C430BAB-7F37-4BCE-85B2-0B797A65ED70}|Trabalho do Allan\\Trabalho do Allan.csproj|solutionrelative:trabalho do allan\\daocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C430BAB-7F37-4BCE-85B2-0B797A65ED70}|Trabalho do Allan\\Trabalho do Allan.csproj|C:\\Users\\rafae\\source\\repos\\Trabalho do Allan\\trabalho do allan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C430BAB-7F37-4BCE-85B2-0B797A65ED70}|Trabalho do Allan\\Trabalho do Allan.csproj|solutionrelative:trabalho do allan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DaoCliente.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\source\\repos\\Trabalho do Allan\\Trabalho do Allan\\DaoCliente.cs",
+              "RelativeDocumentMoniker": "Trabalho do Allan\\DaoCliente.cs",
+              "ToolTip": "C:\\Users\\rafae\\source\\repos\\Trabalho do Allan\\Trabalho do Allan\\DaoCliente.cs",
+              "RelativeToolTip": "Trabalho do Allan\\DaoCliente.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T22:24:52.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ControlCliente.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\source\\repos\\Trabalho do Allan\\Trabalho do Allan\\ControlCliente.cs",
+              "RelativeDocumentMoniker": "Trabalho do Allan\\ControlCliente.cs",
+              "ToolTip": "C:\\Users\\rafae\\source\\repos\\Trabalho do Allan\\Trabalho do Allan\\ControlCliente.cs",
+              "RelativeToolTip": "Trabalho do Allan\\ControlCliente.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADwAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T22:24:39.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\source\\repos\\Trabalho do Allan\\Trabalho do Allan\\Program.cs",
+              "RelativeDocumentMoniker": "Trabalho do Allan\\Program.cs",
+              "ToolTip": "C:\\Users\\rafae\\source\\repos\\Trabalho do Allan\\Trabalho do Allan\\Program.cs",
+              "RelativeToolTip": "Trabalho do Allan\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T22:21:20.617Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
