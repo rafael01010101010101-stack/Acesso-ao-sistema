@@ -22,6 +22,7 @@ namespace Trabalho_do_Allan
             Console.WriteLine("------MENU------\n\n" +
                 "\n0.Sair" +
                 "\n1.Cadastrar Cliente" +
+                "\n2.Login e senha" +
                 "\nEscolha uma das opções acima:");
             this.opcao = Convert.ToInt32(Console.ReadLine());
         }//fim do menu
@@ -59,6 +60,21 @@ namespace Trabalho_do_Allan
                         string senha = Console.ReadLine();
 
                         this.cliente.Cadastrar(nome, telefone, endereco, dataNascimento, login, senha);
+                        break;
+                    case 2:
+                        Console.WriteLine("Login: ");
+                        string loginInformado = Console.ReadLine();
+                        Console.WriteLine("Senha: ");
+                        string senhaInformada = Console.ReadLine();
+                        bool loginValido = this.cliente.ValidarLogin(loginInformado, senhaInformada);
+                        if (loginValido)
+                        {
+                            Console.WriteLine("Login e senha válidos!");
+                        }
+                        else
+                        {
+                            Console.WriteLine("Login ou senha inválidos!");
+                        }
                         break;
                     default:
                         Console.WriteLine("Código informado é inválido!");

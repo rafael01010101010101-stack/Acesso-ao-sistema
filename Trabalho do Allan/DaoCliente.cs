@@ -1,4 +1,5 @@
 ﻿using MySql.Data.MySqlClient;
+using MySqlX.XDevAPI;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,16 +13,17 @@ namespace Trabalho_do_Allan
         public MySqlConnection conexao;
         public string dados;
         public string comando;
-        public string[] nome;
-        public string[] telefone;
-        public string[] endereco;
-        public DateTime[] dataNascimento;
-        public string[] login;
-        public string[] senha;
+        
+
+        public class Cliente
+        {
+            public string Login { get; set; }
+            public string Senha { get; set; }
+        }
 
         public DaoCliente()
         {
-            conexao = new MySqlConnection("server=localhost;DataBase=registro;Uid=root;Password=;Convert Zero DateTime=True");
+            conexao = new MySqlConnection("server=localhost;DataBase=Acesso;Uid=root;Password=;Convert Zero DateTime=True");
             try
             {
                 conexao.Open();//abrir a conexão
@@ -51,5 +53,26 @@ namespace Trabalho_do_Allan
             }
         }//fim do inserir
 
+        public bool ValidarLogin(string login, string senha)
+        {
+            try
+            {
+                string query = "SELECT * FROM cliente WHERE login = @login AND senha = @senha";
+
+                MySqlCommand cmd = new MySqlCommand(query, conexao);
+                cmd.Parameters.AddWithValue("@login", login);
+                cmd.Parameters.AddWithValue("@senha", senha);
+
+                using (MySqlDataReader reader = cmd.ExecuteReader())
+                {
+                    return reader.HasRows;
+                }
+            }
+            catch (Exception erro)
+            {
+                Console.WriteLine($"Erro ao validar login: {erro}");
+                return false;
+            }
+        }
     }
 }
