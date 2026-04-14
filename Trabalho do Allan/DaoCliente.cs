@@ -23,7 +23,7 @@ namespace Trabalho_do_Allan
 
         public DaoCliente()
         {
-            conexao = new MySqlConnection("server=localhost;DataBase=Acesso;Uid=root;Password=;Convert Zero DateTime=True");
+            conexao = new MySqlConnection("server=localhost;DataBase=acesso;Uid=root;Password=;Convert Zero DateTime=True");
             try
             {
                 conexao.Open();//abrir a conexão

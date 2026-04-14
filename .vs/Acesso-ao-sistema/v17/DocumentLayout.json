@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rafael.balmeida3\\source\\repos\\Acesso-ao-sistema\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rafael.balmeida3\\source\\repos\\Acesso-ao-sistema\\Trabalho do Allan\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Trabalho do Allan\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rafael.balmeida3\\source\\repos\\Acesso-ao-sistema\\Trabalho do Allan\\DaoCliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Trabalho do Allan\\DaoCliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rafael.balmeida3\\source\\repos\\Acesso-ao-sistema\\Trabalho do Allan\\ControlCliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Trabalho do Allan\\ControlCliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\Acesso-ao-sistema\\Trabalho do Allan\\Program.cs",
+              "RelativeDocumentMoniker": "Trabalho do Allan\\Program.cs",
+              "ToolTip": "C:\\Users\\rafael.balmeida3\\source\\repos\\Acesso-ao-sistema\\Trabalho do Allan\\Program.cs",
+              "RelativeToolTip": "Trabalho do Allan\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T16:44:12.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DaoCliente.cs",
+              "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\Acesso-ao-sistema\\Trabalho do Allan\\DaoCliente.cs",
+              "RelativeDocumentMoniker": "Trabalho do Allan\\DaoCliente.cs",
+              "ToolTip": "C:\\Users\\rafael.balmeida3\\source\\repos\\Acesso-ao-sistema\\Trabalho do Allan\\DaoCliente.cs",
+              "RelativeToolTip": "Trabalho do Allan\\DaoCliente.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T16:44:11.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ControlCliente.cs",
+              "DocumentMoniker": "C:\\Users\\rafael.balmeida3\\source\\repos\\Acesso-ao-sistema\\Trabalho do Allan\\ControlCliente.cs",
+              "RelativeDocumentMoniker": "Trabalho do Allan\\ControlCliente.cs",
+              "ToolTip": "C:\\Users\\rafael.balmeida3\\source\\repos\\Acesso-ao-sistema\\Trabalho do Allan\\ControlCliente.cs",
+              "RelativeToolTip": "Trabalho do Allan\\ControlCliente.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAE8AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T16:44:07.032Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

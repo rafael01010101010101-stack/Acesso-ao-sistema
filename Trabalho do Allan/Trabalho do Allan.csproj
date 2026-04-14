@@ -93,7 +93,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ControlCliente.cs" />
+    <Compile Include="ControlCompra.cs" />
+    <Compile Include="ControlFuncionario.cs" />
+    <Compile Include="ControlLivro.cs" />
+    <Compile Include="ControlReserva.cs" />
     <Compile Include="DaoCliente.cs" />
+    <Compile Include="DaoCompra.cs" />
+    <Compile Include="DaoFuncionario.cs" />
+    <Compile Include="DaoLivro.cs" />
+    <Compile Include="DaoReserva.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
